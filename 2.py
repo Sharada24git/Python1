@@ -1,0 +1,5 @@
+print("A       R")
+print("An      Re")
+print("Anu     Rek")
+print("Anus    Rekh")
+print("Anush   Rekha")
